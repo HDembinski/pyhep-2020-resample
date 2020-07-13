@@ -1,0 +1,4 @@
+numpy
+matplotlib
+scipy
+git+https://github.com/dsaxton/resample.git@completing_bootstrap_interface
